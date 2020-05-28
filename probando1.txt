@@ -2,3 +2,4 @@ A ver si no tenemos problemas...
 Parece que todo va bien jejej
 Cuando se guarda esto se le da a commit, luego pull y finalmente pust no?
 Haces algun otro paso?
+Anything else
